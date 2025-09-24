@@ -25,12 +25,8 @@ public class OperatorAssignment {
 			System.out.println("pembagian :" + A1);
 			System.out.println("Assignment sisa bagi");
 			A1 %= A2; // sisa bagi, sekarang A1=0
-			System.out.println("Sisa Bagi: " + A1);
-			
-			
-
-		}
-	
+			System.out.println("Sisa Bagi: " + A1);
+			}
 	}
 
 

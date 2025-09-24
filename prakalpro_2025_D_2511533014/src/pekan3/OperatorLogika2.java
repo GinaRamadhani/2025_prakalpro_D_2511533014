@@ -1,6 +1,6 @@
 package pekan3;
 import java.util.Scanner;
-public class OperatorLogika {
+public class OperatorLogika2 {
 	 public static void main(String[] args) {
 	        boolean A1;
 	        boolean A2;
@@ -26,7 +26,8 @@ public class OperatorLogika {
 	        System.out.println("Negasi");
 	        C = !A1;
 	        System.out.println("bukan true = " + C);
-	        }
+	        
+	 	}
 	}
 
 
