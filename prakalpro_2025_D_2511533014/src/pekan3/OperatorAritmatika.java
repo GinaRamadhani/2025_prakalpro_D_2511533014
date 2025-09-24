@@ -28,7 +28,7 @@ public class OperatorAritmatika {
 		hasil = A1 % A2;//Sisa Bagi
 		System.out.println("Hasil = " + hasil);
 		
-		
+		//
 				
 	}
 

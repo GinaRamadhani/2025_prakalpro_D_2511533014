@@ -19,7 +19,7 @@ public class OperatorAssignment {
 			System.out.println("Pengurangan :" + A1);
 			System.out.println("Assignment Perkalian");
 			A1 *= A2; // perkalian sekarang A1 = 50;
-			System.out.println("Perkalian :" + A1);
+			System.out.println("Perkalian :" + A1);//
 			System.out.println("Assignment hasil bagi");
 			A1 /= A2; // hasil bagi, sekarang A1 = 10
 			System.out.println("pembagian :" + A1);

@@ -16,7 +16,7 @@ public class DeklarasiVariabel {
 		System.out.println("Status: "+isDibawahUmur);
 		System.out.println("kode:"+kode);
 		System.out.println("Umur:"+umur);
-		System.out.println("Gaji:"+gaji);
+		System.out.println("Gaji:"+gaji);//
 	}
 
 }
