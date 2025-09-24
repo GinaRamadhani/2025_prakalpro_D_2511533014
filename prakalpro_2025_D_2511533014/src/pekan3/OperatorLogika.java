@@ -24,7 +24,7 @@ public class OperatorLogika {
 	        System.out.println("true or false = " + C);
 	        
 	        System.out.println("Negasi");
-	        C = !A1;
+	        C = !A1;//
 	        System.out.println("bukan true = " + C);//
 	        }
 	}

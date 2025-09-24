@@ -23,7 +23,7 @@ public class OperatorLogika2 {
 	        C = A1 || A2;
 	        System.out.println("true or false = " + C);
 	        
-	        System.out.println("Negasi");
+	        System.out.println("Negasi");//
 	        C = !A1;
 	        System.out.println("bukan true = " + C);//
 	        
