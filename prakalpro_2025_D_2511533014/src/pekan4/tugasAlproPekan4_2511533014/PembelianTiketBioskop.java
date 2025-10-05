@@ -1,9 +1,6 @@
 package tugasAlproPekan4_2511533014;
 
 import java.util.Scanner;
-import java.text.NumberFormat;
-import java.util.Locale;
-
 public class PembelianTiketBioskop {
 
     // Fungsi untuk format mata uang Rupiah tanpa desimal
@@ -150,3 +147,4 @@ public class PembelianTiketBioskop {
         sc.close();
     }
 }
+
